@@ -1,4 +1,4 @@
-package com.example.age;
+package com.example.age.dao;
 
 public class Age {
     private int days;

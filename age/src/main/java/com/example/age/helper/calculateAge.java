@@ -1,4 +1,6 @@
-package com.example.age;
+package com.example.age.helper;
+
+import com.example.age.dao.Age;
 
 import java.time.LocalDate;
 import java.time.Period;
